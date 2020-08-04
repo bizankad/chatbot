@@ -8,4 +8,6 @@ if __name__ == '__main__':
     update_model(filepath)
 
     # ask the bot
-    ask_bot('what is a chat bot')
+    answer = ask_bot('Blabla')
+
+    print(answer)
