@@ -11,9 +11,18 @@ update_model(filepath)
 
 app = FastAPI()
 
-@app.post("/bot_answer")
-async def get_answer(question: str):
-    # ask the bot
-    answer = ask_bot(question)
+class ModelOut(BaseModel):
+    answer: str
 
-    return answer
+class ModelIn(BaseModel):
+    question: str
+
+@app.post("/bot_answer", response_model=ModelOut)
+async def get_answer(question: ModelIn):
+    # cast object to dict
+    question = question.dict()
+
+    # ask the bot
+    answer = ask_bot(question['question'])
+
+    return {'answer': answer}
