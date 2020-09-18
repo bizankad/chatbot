@@ -20,5 +20,5 @@ uvicorn run_chatbot_api:app --reload
 ```
 3. run flask app 
 ```bash
-python flask-app/main/py
+python flask-app/main.py
 ```
