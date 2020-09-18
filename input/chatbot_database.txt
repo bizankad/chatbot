@@ -1,114 +1,118 @@
-A chatbot (also known as a talkbot, chatterbot, Bot, IM bot, interactive agent, or Artificial Conversational Entity) is a computer program or an artificial intelligence which conducts a conversation via auditory or textual methods.
-Such programs are often designed to convincingly simulate how a human would behave as a conversational partner, thereby passing the Turing test.
-Chatbots are typically used in dialog systems for various practical purposes including customer service or information acquisition.
-Some chatterbots use sophisticated natural language processing systems, but many simpler systems scan for keywords within the input, then pull a reply with the most matching keywords, or the most similar wording pattern, from a database.
+Imagine taking a time machine back to 1750—a time when the world was in a permanent power outage, long-distance communication meant either yelling loudly or firing a cannon in the air, and all transportation ran on hay. When you get there, you retrieve a dude, bring him to 2015, and then walk him around and watch him react to everything. It’s impossible for us to understand what it would be like for him to see shiny capsules racing by on a highway, talk to people who had been on the other side of the ocean earlier in the day, watch sports that were being played 1,000 miles away, hear a musical performance that happened 50 years ago, and play with my magical wizard rectangle that he could use to capture a real-life image or record a living moment, generate a map with a paranormal moving blue dot that shows him where he is, look at someone’s face and chat with them even though they’re on the other side of the country, and worlds of other inconceivable sorcery. This is all before you show him the internet or explain things like the International Space Station, the Large Hadron Collider, nuclear weapons, or general relativity.
 
-The term "ChatterBot" was originally coined by Michael Mauldin (creator of the first Verbot, Julia) in 1994 to describe these conversational programs.
-Today, most chatbots are either accessed via virtual assistants such as Google Assistant and Amazon Alexa, via messaging apps such as Facebook Messenger or WeChat, or via individual organizations' apps and websites.
-Chatbots can be classified into usage categories such as conversational commerce (e-commerce via chat), analytics, communication, customer support, design, developer tools, education, entertainment, finance, food, games, health, HR, marketing, news, personal, productivity, shopping, social, sports, travel and utilities.
-In 1950, Alan Turing's famous article "Computing Machinery and Intelligence" was published, which proposed what is now called the Turing test as a criterion of intelligence.
-This criterion depends on the ability of a computer program to impersonate a human in a real-time written conversation with a human judge, sufficiently well that the judge is unable to distinguish reliably�on the basis of the conversational content alone�between the program and a real human.
-The notoriety of Turing's proposed test stimulated great interest in Joseph Weizenbaum's program ELIZA, published in 1966, which seemed to be able to fool users into believing that they were conversing with a real human.
-However Weizenbaum himself did not claim that ELIZA was genuinely intelligent, and the Introduction to his paper presented it more as a debunking exercise:
+This experience for him wouldn’t be surprising or shocking or even mind-blowing—those words aren’t big enough. He might actually die.
 
-[In] artificial intelligence machines are made to behave in wondrous ways, often sufficient to dazzle even the most experienced observer. But once a particular program is unmasked, once its inner workings are explained ... its magic crumbles away; it stands revealed as a mere collection of procedures ...
-The observer says to himself "I could have written that". With that thought he moves the program in question from the shelf marked "intelligent", to that reserved for curios ... The object of this paper is to cause just such a re-evaluation of the program about to be "explained".Few programs ever needed it more.
+But here’s the interesting thing—if he then went back to 1750 and got jealous that we got to see his reaction and decided he wanted to try the same thing, he’d take the time machine and go back the same distance, get someone from around the year 1500, bring him to 1750, and show him everything. And the 1500 guy would be shocked by a lot of things—but he wouldn’t die. It would be far less of an insane experience for him, because while 1500 and 1750 were very different, they were much less different than 1750 to 2015. The 1500 guy would learn some mind-bending shit about space and physics, he’d be impressed with how committed Europe turned out to be with that new imperialism fad, and he’d have to do some major revisions of his world map conception. But watching everyday life go by in 1750—transportation, communication, etc.—definitely wouldn’t make him die.
 
-ELIZA's key method of operation (copied by chatbot designers ever since) involves the recognition of cue words or phrases in the input, and the output of corresponding pre-prepared or pre-programmed responses that can move the conversation forward in an apparently meaningful way (e.g.
-by responding to any input that contains the word 'MOTHER' with 'TELL ME MORE ABOUT YOUR FAMILY').
-Thus an illusion of understanding is generated, even though the processing involved has been merely superficial.
-ELIZA showed that such an illusion is surprisingly easy to generate, because human judges are so ready to give the benefit of the doubt when conversational responses are capable of being interpreted as "intelligent".
+No, in order for the 1750 guy to have as much fun as we had with him, he’d have to go much farther back—maybe all the way back to about 12,000 BC, before the First Agricultural Revolution gave rise to the first cities and to the concept of civilization. If someone from a purely hunter-gatherer world—from a time when humans were, more or less, just another animal species—saw the vast human empires of 1750 with their towering churches, their ocean-crossing ships, their concept of being “inside,” and their enormous mountain of collective, accumulated human knowledge and discovery—he’d likely die.
 
-Interface designers have come to appreciate that humans' readiness to interpret computer output as genuinely conversational�even when it is actually based on rather simple pattern-matching�can be exploited for useful purposes.
-Most people prefer to engage with programs that are human-like, and this gives chatbot-style techniques a potentially useful role in interactive systems that need to elicit information from users, as long as that information is relatively straightforward and falls into predictable categories.
-Thus, for example, online help systems can usefully employ chatbot techniques to identify the area of help that users require, potentially providing a "friendlier" interface than a more formal search or menu system.
-This sort of usage holds the prospect of moving chatbot technology from Weizenbaum's "shelf ...
-reserved for curios" to that marked "genuinely useful computational methods".
+And then what if, after dying, he got jealous and wanted to do the same thing. If he went back 12,000 years to 24,000 BC and got a guy and brought him to 12,000 BC, he’d show the guy everything and the guy would be like, “Okay what’s your point who cares.” For the 12,000 BC guy to have the same fun, he’d have to go back over 100,000 years and get someone he could show fire and language to for the first time.
 
-The classic historic early chatbots are ELIZA (1966) and PARRY (1972).More recent notable programs include A.L.I.C.E., Jabberwacky and D.U.D.E (Agence Nationale de la Recherche and CNRS 2006).
-While ELIZA and PARRY were used exclusively to simulate typed conversation, many chatbots now include functional features such as games and web searching abilities.
-In 1984, a book called The Policeman's Beard is Half Constructed was published, allegedly written by the chatbot Racter (though the program as released would not have been capable of doing so).
+In order for someone to be transported into the future and die from the level of shock they’d experience, they have to go enough years ahead that a “die level of progress,” or a Die Progress Unit (DPU) has been achieved. So a DPU took over 100,000 years in hunter-gatherer times, but at the post-Agricultural Revolution rate, it only took about 12,000 years. The post-Industrial Revolution world has moved so quickly that a 1750 person only needs to go forward a couple hundred years for a DPU to have happened.
 
-One pertinent field of AI research is natural language processing.
-Usually, weak AI fields employ specialized software or programming languages created specifically for the narrow function required.
-For example, A.L.I.C.E.
-uses a markup language called AIML, which is specific to its function as a conversational agent, and has since been adopted by various other developers of, so called, Alicebots.
-Nevertheless, A.L.I.C.E.
-is still purely based on pattern matching techniques without any reasoning capabilities, the same technique ELIZA was using back in 1966.
-This is not strong AI, which would require sapience and logical reasoning abilities.
+This pattern—human progress moving quicker and quicker as time goes on—is what futurist Ray Kurzweil calls human history’s Law of Accelerating Returns. This happens because more advanced societies have the ability to progress at a faster rate than less advanced societies—because they’re more advanced. 19th century humanity knew more and had better technology than 15th century humanity, so it’s no surprise that humanity made far more advances in the 19th century than in the 15th century—15th century humanity was no match for 19th century humanity.11← open these
 
-Jabberwacky learns new responses and context based on real-time user interactions, rather than being driven from a static database.
-Some more recent chatbots also combine real-time learning with evolutionary algorithms that optimise their ability to communicate based on each conversation held.
-Still, there is currently no general purpose conversational artificial intelligence, and some software developers focus on the practical aspect, information retrieval.
+This works on smaller scales too. The movie Back to the Future came out in 1985, and “the past” took place in 1955. In the movie, when Michael J. Fox went back to 1955, he was caught off-guard by the newness of TVs, the prices of soda, the lack of love for shrill electric guitar, and the variation in slang. It was a different world, yes—but if the movie were made today and the past took place in 1985, the movie could have had much more fun with much bigger differences. The character would be in a time before personal computers, internet, or cell phones—today’s Marty McFly, a teenager born in the late 90s, would be much more out of place in 1985 than the movie’s Marty McFly was in 1955.
 
-Chatbot competitions focus on the Turing test or more specific goals.
-Two such annual contests are the Loebner Prize and The Chatterbox Challenge (offline since 2015, materials can still be found from web archives).
+This is for the same reason we just discussed—the Law of Accelerating Returns. The average rate of advancement between 1985 and 2015 was higher than the rate between 1955 and 1985—because the former was a more advanced world—so much more change happened in the most recent 30 years than in the prior 30.
 
-According to Forrester (2015), AI will replace 16 percent of American jobs by the end of the decade.
-Chatbots have been used in applications such as customer service, sales and product education.
-However, a study conducted by Narrative Science in 2015 found that 80 percent of their respondents believe AI improves worker performance and creates jobs.[citation needed]
+So—advances are getting bigger and bigger and happening more and more quickly. This suggests some pretty intense things about our future, right?
 
-Aeromexico airline chatbot running on Facebook Messenger, March 2018
-Messaging apps
-Many companies' chatbots run on messaging apps like Facebook Messenger (since 2016), WeChat (since 2013),WhatsApp, LiveChat, Kik, Slack, Line, Telegram, or simply via SMS.
-They are used for B2C customer service, sales and marketing.
+Kurzweil suggests that the progress of the entire 20th century would have been achieved in only 20 years at the rate of advancement in the year 2000—in other words, by 2000, the rate of progress was five times faster than the average rate of progress during the 20th century. He believes another 20th century’s worth of progress happened between 2000 and 2014 and that another 20th century’s worth of progress will happen by 2021, in only seven years. A couple decades later, he believes a 20th century’s worth of progress will happen multiple times in the same year, and even later, in less than one month. All in all, because of the Law of Accelerating Returns, Kurzweil believes that the 21st century will achieve 1,000 times the progress of the 20th century.2
 
-In 2016, Facebook Messenger allowed developers to place chatbots on their platform.
-There were 30,000 bots created for Messenger in the first six months, rising to 100,000 by September 2017.
+If Kurzweil and others who agree with him are correct, then we may be as blown away by 2030 as our 1750 guy was by 2015—i.e. the next DPU might only take a couple decades—and the world in 2050 might be so vastly different than today’s world that we would barely recognize it.
 
-Since September 2017, this has also been as part of a pilot program on WhatsApp.
-Airlines KLM and Aerom�xico both announced their participation in the testing;both airlines had previously launched customer services on the Facebook Messenger platform.
+This isn’t science fiction. It’s what many scientists smarter and more knowledgeable than you or I firmly believe—and if you look at history, it’s what we should logically predict.
 
-The bots usually appear as one of the user's contacts, but can sometimes act as participants in a group chat.
+So then why, when you hear me say something like “the world 35 years from now might be totally unrecognizable,” are you thinking, “Cool….but nahhhhhhh”? Three reasons we’re skeptical of outlandish forecasts of the future:
 
-Many banks and insurers, media and e-commerce companies, airlines and hotel chains, retailers, health care providers, government entities and restaurant chains have used chatbots to answer simple questions, increase customer engagement,for promotion, and to offer additional ways to order from them.
+1) When it comes to history, we think in straight lines. When we imagine the progress of the next 30 years, we look back to the progress of the previous 30 as an indicator of how much will likely happen. When we think about the extent to which the world will change in the 21st century, we just take the 20th century progress and add it to the year 2000. This was the same mistake our 1750 guy made when he got someone from 1500 and expected to blow his mind as much as his own was blown going the same distance ahead. It’s most intuitive for us to think linearly, when we should be thinking exponentially. If someone is being more clever about it, they might predict the advances of the next 30 years not by looking at the previous 30 years, but by taking the current rate of progress and judging based on that. They’d be more accurate, but still way off. In order to think about the future correctly, you need to imagine things moving at a much faster rate than they’re moving now.
 
-A 2017 study showed 4% of companies used chatbots.
-According to a 2016 study, 80% of businesses said they intended to have one by 2020.
+Projections
 
-As part of company apps and websites
-Previous generations of chatbots were present on company websites, e.g.
-Ask Jenn from Alaska Airlines which debuted in 2008 or Expedia's virtual customer service agent which launched in 2011.
-The newer generation of chatbots includes IBM Watson-powered "Rocky", introduced in February 2017 by the New York City-based e-commerce company Rare Carat to provide information to prospective diamond buyers.
+2) The trajectory of very recent history often tells a distorted story. First, even a steep exponential curve seems linear when you only look at a tiny slice of it, the same way if you look at a little segment of a huge circle up close, it looks almost like a straight line. Second, exponential growth isn’t totally smooth and uniform. Kurzweil explains that progress happens in “S-curves”:
 
-Company internal platforms
-Other companies explore ways they can use chatbots internally, for example for Customer Support, Human Resources, or even in Internet-of-Things (IoT) projects.
-Overstock.com, for one, has reportedly launched a chatbot named Mila to automate certain simple yet time-consuming processes when requesting for a sick leave.
-Other large companies such as Lloyds Banking Group, Royal Bank of Scotland, Renault and Citro�n are now using automated online assistants instead of call centres with humans to provide a first point of contact.
-A SaaS chatbot business ecosystem has been steadily growing since the F8 Conference when Zuckerberg unveiled that Messenger would allow chatbots into the app.
+S-Curves
 
-Chatbots have also been incorporated into devices not primarily meant for computing such as toys.
+An S is created by the wave of progress when a new paradigm sweeps the world. The curve goes through three phases:
 
-Hello Barbie is an Internet-connected version of the doll that uses a chatbot provided by the company ToyTalk,which previously used the chatbot for a range of smartphone-based characters for children.These characters' behaviors are constrained by a set of rules that in effect emulate a particular character and produce a storyline.
+1. Slow growth (the early phase of exponential growth)
+2. Rapid growth (the late, explosive phase of exponential growth)
+3. A leveling off as the particular paradigm matures3
 
-IBM's Watson computer has been used as the basis for chatbot-based educational toys for companies such as CogniToys intended to interact with children for educational purposes.
+If you look only at very recent history, the part of the S-curve you’re on at the moment can obscure your perception of how fast things are advancing. The chunk of time between 1995 and 2007 saw the explosion of the internet, the introduction of Microsoft, Google, and Facebook into the public consciousness, the birth of social networking, and the introduction of cell phones and then smart phones. That was Phase 2: the growth spurt part of the S. But 2008 to 2015 has been less groundbreaking, at least on the technological front. Someone thinking about the future today might examine the last few years to gauge the current rate of advancement, but that’s missing the bigger picture. In fact, a new, huge Phase 2 growth spurt might be brewing right now.
 
-The process of creating a chatbot follows a pattern similar to the development of a web page or a mobile app.
-It can be divided into Design, Building, Analytics and Maintenance.
+3) Our own experience makes us stubborn old men about the future. We base our ideas about the world on our personal experience, and that experience has ingrained the rate of growth of the recent past in our heads as “the way things happen.” We’re also limited by our imagination, which takes our experience and uses it to conjure future predictions—but often, what we know simply doesn’t give us the tools to think accurately about the future.2 When we hear a prediction about the future that contradicts our experience-based notion of how things work, our instinct is that the prediction must be naive. If I tell you, later in this post, that you may live to be 150, or 250, or not die at all, your instinct will be, “That’s stupid—if there’s one thing I know from history, it’s that everybody dies.” And yes, no one in the past has not died. But no one flew airplanes before airplanes were invented either.
 
-The chatbot design is the process that defines the interaction between the user and the chatbot.
-The chatbot designer will define the chatbot personality, the questions that will be asked to the users, and the overall interaction.
-It can be viewed as a subset of the conversational design.
-In order to speed up this process, designers can use dedicated chatbot design tools, that allow for immediate preview, team collaboration and video export.
-An important part of the chatbot design is also centered around user testing.
-User testing can be performed following the same principles that guide the user testing of graphical interfaces.
+So while nahhhhh might feel right as you read this post, it’s probably actually wrong. The fact is, if we’re being truly logical and expecting historical patterns to continue, we should conclude that much, much, much more should change in the coming decades than we intuitively expect. Logic also suggests that if the most advanced species on a planet keeps making larger and larger leaps forward at an ever-faster rate, at some point, they’ll make a leap so great that it completely alters life as they know it and the perception they have of what it means to be a human—kind of like how evolution kept making great leaps toward intelligence until finally it made such a large leap to the human being that it completely altered what it meant for any creature to live on planet Earth. And if you spend some time reading about what’s going on today in science and technology, you start to see a lot of signs quietly hinting that life as we currently know it cannot withstand the leap that’s coming next.
 
-The process of building a chatbot can be divided into two main tasks: understanding the user's intent and producing the correct answer.
-The first task involves understanding the user input.
-In order to properly understand a user input in a free text form, a Natural Language Processing Engine can be used.The second task may involve different approaches depending on the type of the response that the chatbot will generate.
+_______________
 
-The usage of the chatbot can be monitored in order to spot potential flaws or problems.
-It can also provide useful insights that can improve the final user experience.
+The Road to Superintelligence
+What Is AI?
 
-To keep chatbots up to speed with changing company products and services, traditional chatbot development platforms require ongoing maintenance.
-This can either be in the form of an ongoing service provider or for larger enterprises in the form of an in-house chatbot training team.
-To eliminate these costs, some startups are experimenting with Artificial Intelligence to develop self-learning chatbots, particularly in Customer Service applications.
+If you’re like me, you used to think Artificial Intelligence was a silly sci-fi concept, but lately you’ve been hearing it mentioned by serious people, and you don’t really quite get it.
 
-The process of building, testing and deploying chatbots can be done on cloud based chatbot development platforms offered by cloud Platform as a Service (PaaS) providers such as Yekaliva, Oracle Cloud Platform, SnatchBot and IBM Watson.
-These cloud platforms provide Natural Language Processing, Artificial Intelligence and Mobile Backend as a Service for chatbot development.
+There are three reasons a lot of people are confused about the term AI:
 
-There are many APIs available for building your own chatbots, such as AARC.
+1) We associate AI with movies. Star Wars. Terminator. 2001: A Space Odyssey. Even the Jetsons. And those are fiction, as are the robot characters. So it makes AI sound a little fictional to us.
 
-Malicious chatbots are frequently used to fill chat rooms with spam and advertisements, by mimicking human behaviour and conversations or to entice people into revealing personal information, such as bank account numbers.
-They are commonly found on Yahoo! Messenger, Windows Live Messenger, AOL Instant Messenger and other instant messaging protocols.
-There has also been a published report of a chatbot used in a fake personal ad on a dating service's website.
+2) AI is a broad topic. It ranges from your phone’s calculator to self-driving cars to something in the future that might change the world dramatically. AI refers to all of these things, which is confusing.
+
+3) We use AI all the time in our daily lives, but we often don’t realize it’s AI. John McCarthy, who coined the term “Artificial Intelligence” in 1956, complained that “as soon as it works, no one calls it AI anymore.”4 Because of this phenomenon, AI often sounds like a mythical future prediction more than a reality. At the same time, it makes it sound like a pop concept from the past that never came to fruition. Ray Kurzweil says he hears people say that AI withered in the 1980s, which he compares to “insisting that the Internet died in the dot-com bust of the early 2000s.”5
+
+So let’s clear things up. First, stop thinking of robots. A robot is a container for AI, sometimes mimicking the human form, sometimes not—but the AI itself is the computer inside the robot. AI is the brain, and the robot is its body—if it even has a body. For example, the software and data behind Siri is AI, the woman’s voice we hear is a personification of that AI, and there’s no robot involved at all.
+
+Secondly, you’ve probably heard the term “singularity” or “technological singularity.” This term has been used in math to describe an asymptote-like situation where normal rules no longer apply. It’s been used in physics to describe a phenomenon like an infinitely small, dense black hole or the point we were all squished into right before the Big Bang. Again, situations where the usual rules don’t apply. In 1993, Vernor Vinge wrote a famous essay in which he applied the term to the moment in the future when our technology’s intelligence exceeds our own—a moment for him when life as we know it will be forever changed and normal rules will no longer apply. Ray Kurzweil then muddled things a bit by defining the singularity as the time when the Law of Accelerating Returns has reached such an extreme pace that technological progress is happening at a seemingly-infinite pace, and after which we’ll be living in a whole new world. I found that many of today’s AI thinkers have stopped using the term, and it’s confusing anyway, so I won’t use it much here (even though we’ll be focusing on that idea throughout).
+
+Finally, while there are many different types or forms of AI since AI is a broad concept, the critical categories we need to think about are based on an AI’s caliber. There are three major AI caliber categories:
+
+AI Caliber 1) Artificial Narrow Intelligence (ANI): Sometimes referred to as Weak AI, Artificial Narrow Intelligence is AI that specializes in one area. There’s AI that can beat the world chess champion in chess, but that’s the only thing it does. Ask it to figure out a better way to store data on a hard drive, and it’ll look at you blankly.
+
+AI Caliber 2) Artificial General Intelligence (AGI): Sometimes referred to as Strong AI, or Human-Level AI, Artificial General Intelligence refers to a computer that is as smart as a human across the board—a machine that can perform any intellectual task that a human being can. Creating AGI is a much harder task than creating ANI, and we’re yet to do it. Professor Linda Gottfredson describes intelligence as “a very general mental capability that, among other things, involves the ability to reason, plan, solve problems, think abstractly, comprehend complex ideas, learn quickly, and learn from experience.” AGI would be able to do all of those things as easily as you can.
+
+AI Caliber 3) Artificial Superintelligence (ASI): Oxford philosopher and leading AI thinker Nick Bostrom defines superintelligence as “an intellect that is much smarter than the best human brains in practically every field, including scientific creativity, general wisdom and social skills.” Artificial Superintelligence ranges from a computer that’s just a little smarter than a human to one that’s trillions of times smarter—across the board. ASI is the reason the topic of AI is such a spicy meatball and why the words “immortality” and “extinction” will both appear in these posts multiple times.
+
+As of now, humans have conquered the lowest caliber of AI—ANI—in many ways, and it’s everywhere. The AI Revolution is the road from ANI, through AGI, to ASI—a road we may or may not survive but that, either way, will change everything.
+
+Let’s take a close look at what the leading thinkers in the field believe this road looks like and why this revolution might happen way sooner than you might think:
+
+Where We Are Currently—A World Running on ANI
+
+Artificial Narrow Intelligence is machine intelligence that equals or exceeds human intelligence or efficiency at a specific thing. A few examples:
+
+Cars are full of ANI systems, from the computer that figures out when the anti-lock brakes should kick in to the computer that tunes the parameters of the fuel injection systems. Google’s self-driving car, which is being tested now, will contain robust ANI systems that allow it to perceive and react to the world around it.
+Your phone is a little ANI factory. When you navigate using your map app, receive tailored music recommendations from Pandora, check tomorrow’s weather, talk to Siri, or dozens of other everyday activities, you’re using ANI.
+Your email spam filter is a classic type of ANI—it starts off loaded with intelligence about how to figure out what’s spam and what’s not, and then it learns and tailors its intelligence to you as it gets experience with your particular preferences. The Nest Thermostat does the same thing as it starts to figure out your typical routine and act accordingly.
+You know the whole creepy thing that goes on when you search for a product on Amazon and then you see that as a “recommended for you” product on a different site, or when Facebook somehow knows who it makes sense for you to add as a friend? That’s a network of ANI systems, working together to inform each other about who you are and what you like and then using that information to decide what to show you. Same goes for Amazon’s “People who bought this also bought…” thing—that’s an ANI system whose job it is to gather info from the behavior of millions of customers and synthesize that info to cleverly upsell you so you’ll buy more things.
+Google Translate is another classic ANI system—impressively good at one narrow task. Voice recognition is another, and there are a bunch of apps that use those two ANIs as a tag team, allowing you to speak a sentence in one language and have the phone spit out the same sentence in another.
+When your plane lands, it’s not a human that decides which gate it should go to. Just like it’s not a human that determined the price of your ticket.
+The world’s best Checkers, Chess, Scrabble, Backgammon, and Othello players are now all ANI systems.
+Google search is one large ANI brain with incredibly sophisticated methods for ranking pages and figuring out what to show you in particular. Same goes for Facebook’s Newsfeed.
+And those are just in the consumer world. Sophisticated ANI systems are widely used in sectors and industries like military, manufacturing, and finance (algorithmic high-frequency AI traders account for more than half of equity shares traded on US markets6), and in expert systems like those that help doctors make diagnoses and, most famously, IBM’s Watson, who contained enough facts and understood coy Trebek-speak well enough to soundly beat the most prolific Jeopardy champions.
+ANI systems as they are now aren’t especially scary. At worst, a glitchy or badly-programmed ANI can cause an isolated catastrophe like knocking out a power grid, causing a harmful nuclear power plant malfunction, or triggering a financial markets disaster (like the 2010 Flash Crash when an ANI program reacted the wrong way to an unexpected situation and caused the stock market to briefly plummet, taking $1 trillion of market value with it, only part of which was recovered when the mistake was corrected).
+
+But while ANI doesn’t have the capability to cause an existential threat, we should see this increasingly large and complex ecosystem of relatively-harmless ANI as a precursor of the world-altering hurricane that’s on the way. Each new ANI innovation quietly adds another brick onto the road to AGI and ASI. Or as Aaron Saenz sees it, our world’s ANI systems “are like the amino acids in the early Earth’s primordial ooze”—the inanimate stuff of life that, one unexpected day, woke up.
+
+The Road From ANI to AGI
+
+Why It’s So Hard
+
+Nothing will make you appreciate human intelligence like learning about how unbelievably challenging it is to try to create a computer as smart as we are. Building skyscrapers, putting humans in space, figuring out the details of how the Big Bang went down—all far easier than understanding our own brain or how to make something as cool as it. As of now, the human brain is the most complex object in the known universe.
+
+What’s interesting is that the hard parts of trying to build AGI (a computer as smart as humans in general, not just at one narrow specialty) are not intuitively what you’d think they are. Build a computer that can multiply two ten-digit numbers in a split second—incredibly easy. Build one that can look at a dog and answer whether it’s a dog or a cat—spectacularly difficult. Make AI that can beat any human in chess? Done. Make one that can read a paragraph from a six-year-old’s picture book and not just recognize the words but understand the meaning of them? Google is currently spending billions of dollars trying to do it. Hard things—like calculus, financial market strategy, and language translation—are mind-numbingly easy for a computer, while easy things—like vision, motion, movement, and perception—are insanely hard for it. Or, as computer scientist Donald Knuth puts it, “AI has by now succeeded in doing essentially everything that requires ‘thinking’ but has failed to do most of what people and animals do ‘without thinking.'”7
+
+What you quickly realize when you think about this is that those things that seem easy to us are actually unbelievably complicated, and they only seem easy because those skills have been optimized in us (and most animals) by hundreds of millions of years of animal evolution. When you reach your hand up toward an object, the muscles, tendons, and bones in your shoulder, elbow, and wrist instantly perform a long series of physics operations, in conjunction with your eyes, to allow you to move your hand in a straight line through three dimensions. It seems effortless to you because you have perfected software in your brain for doing it. Same idea goes for why it’s not that malware is dumb for not being able to figure out the slanty word recognition test when you sign up for a new account on a site—it’s that your brain is super impressive for being able to.
+
+On the other hand, multiplying big numbers or playing chess are new activities for biological creatures and we haven’t had any time to evolve a proficiency at them, so a computer doesn’t need to work too hard to beat us. Think about it—which would you rather do, build a program that could multiply big numbers or one that could understand the essence of a B well enough that you could show it a B in any one of thousands of unpredictable fonts or handwriting and it could instantly know it was a B?
+
+One fun example—when you look at this, you and a computer both can figure out that it’s a rectangle with two distinct shades, alternating:
+
+Screen Shot 2015-01-21 at 12.59.21 AM
+
+Tied so far. But if you pick up the black and reveal the whole image…
+
+Screen Shot 2015-01-21 at 12.59.54 AM
+
+…you have no problem giving a full description of the various opaque and translucent cylinders, slats, and 3-D corners, but the computer would fail miserably. It would describe what it sees—a variety of two-dimensional shapes in several different shades—which is actually what’s there. Your brain is doing a ton of fancy shit to interpret the implied depth, shade-mixing, and room lighting the picture is trying to portray.8 And looking at the picture below, a computer sees a two-dimensional white, black, and gray collage, while you easily see what it really is—a photo of an entirely-black, 3-D rock:
+
