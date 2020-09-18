@@ -1,19 +1,29 @@
-from chatbot.workflow import update_model, ask_bot
 from fastapi import FastAPI
 from pydantic import BaseModel
-from chatbot.workflow import update_model, ask_bot
+from chatbot.chatbot import ChatBot
 
 # database link
 filepath = './input/chatbot_database.txt'
 
+my_bot = ChatBot(filepath)
+
 # train model
-update_model(filepath)
+my_bot.update_model()
 
 app = FastAPI()
 
-@app.post("/bot_answer")
-async def get_answer(question: str):
-    # ask the bot
-    answer = ask_bot(question)
+class ModelOut(BaseModel):
+    answer: str
 
-    return answer
+class ModelIn(BaseModel):
+    question: str
+
+@app.post("/bot_answer", response_model=ModelOut)
+async def get_answer(question: ModelIn):
+    # cast object to dict
+    question = question.dict()
+
+    # ask the bot
+    answer = my_bot.ask_bot(question['question'])
+
+    return {'answer': answer}
