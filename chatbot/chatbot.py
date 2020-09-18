@@ -4,6 +4,21 @@ import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 
 class ChatBot:
+    """
+    A simple chatbot that handles basic queries from user and answers
+    questions based on the similarity score between the question 
+    and documents learned by the model. 
+
+    Parameters
+    -------
+    db_path: string, path to file containing the corpus
+
+    Attributes
+    ----------
+    documents_db: array, contains the bot answers
+    TF_IDF: vectorized documents (tf-idf)
+
+    """
     def __init__(self, db_path):
         print("Fetching data from db ....")
         corpus = get_corpus(db_path)
@@ -12,14 +27,14 @@ class ChatBot:
 
     def update_model(self):
         # preprocess corpus
-        self.cst_transfromer = CustomTextTransfromer()
+        self.__cst_transfromer = CustomTextTransfromer()
 
         # fit
         print("Fiting the model....")
-        self.cst_transfromer.fit(self.documents_db)
+        self.__cst_transfromer.fit(self.documents_db)
         print('Model fit DONE.')
 
-        self.TF_IDF = self.cst_transfromer.transform(self.documents_db)
+        self.TF_IDF = self.__cst_transfromer.transform(self.documents_db)
 
     def ask_bot(self, query):
         small_talks_good = ["Thanks for getting in touch with me", "I am so sorry I do not understand your point", 
@@ -44,6 +59,6 @@ class ChatBot:
         documents = [query]
 
         # compute TF-IDF
-        sim = cosine_similarity(self.cst_transfromer.transform(documents), self.TF_IDF)
+        sim = cosine_similarity(self.__cst_transfromer.transform(documents), self.TF_IDF)
         
         return self.documents_db[sim.argmax()], sim.max()
